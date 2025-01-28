@@ -3,4 +3,4 @@
 # ro.sf.lcd_density=320
 
 # Wireless Display Enable
-setprop persist.debug.wfd.enable=1
+persist.debug.wfd.enable=1
