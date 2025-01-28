@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.7
-versionCode=19
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=wireless_display
+name=Screen Mirroring Fix
+version=v1.0
+versionCode=12
+author=sauloluan
+description=This module can enable screen mirroring on GSI/Custom ROMs, on devices that support this feature on stock ROMs
